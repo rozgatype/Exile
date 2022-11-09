@@ -1,0 +1,8 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+feature liga {
+sub T T by T_T;
+sub t t by T_T;
+
+} liga;
