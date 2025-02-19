@@ -62,15 +62,15 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 718;
+value = 800;
 },
 {
 name = typoDescender;
-value = -18;
+value = -300;
 },
 {
 name = typoLineGap;
-value = 464;
+value = 0;
 },
 {
 name = winAscent;
@@ -130,15 +130,15 @@ value = 600;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -300;
 },
 {
 name = hheaLineGap;
-value = 100;
+value = 0;
 }
 );
 guides = (
