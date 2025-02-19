@@ -21218,6 +21218,15 @@ type = "x-height";
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2022 The Exile Project Authors (https://github.com/rozgatype/Exile)";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -21229,6 +21238,19 @@ value = "Bartłomiej Rózga @rozgatype";
 {
 key = designerURL;
 value = "https://www.behance.net/rozga";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org/";
 }
 );
 settings = {
