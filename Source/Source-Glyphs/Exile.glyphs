@@ -13532,28 +13532,6 @@ width = 220;
 unicode = 160;
 },
 {
-glyphname = CR;
-lastChange = "2025-02-19 09:35:26 +0000";
-layers = (
-{
-layerId = "31EFE2D6-0164-4AD7-8F6B-9BF26915FE8D";
-width = 600;
-}
-);
-unicode = 13;
-},
-{
-glyphname = CR;
-lastChange = "2025-02-19 09:41:32 +0000";
-layers = (
-{
-layerId = "31EFE2D6-0164-4AD7-8F6B-9BF26915FE8D";
-width = 433;
-}
-);
-unicode = 13;
-},
-{
 glyphname = NULL;
 lastChange = "2025-02-19 09:41:32 +0000";
 layers = (
