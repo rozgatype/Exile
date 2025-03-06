@@ -1,0 +1,6 @@
+sources:
+- Source-Glyphs/Exile.glyphs
+buildStatic: true
+buildTTF: true
+buildOTF: false
+buildWebfont: false
